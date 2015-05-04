@@ -9,9 +9,9 @@
  
  **1.os titulos**
  você pode criar um titulo adicionando um ou mais # simbolos antes do seu titulo de texto. O número de #você usa íra determinar o tamanho do cabeçalho.
-  O maior titulo (uma tag <h1>)
-  A segunda maior rubrica (um <H2>)
-  A maior rubrica (um <H6>)
+  O maior titulo 
+  A segunda maior 
+  A maior rubrica 
 
 **2.blockquotes**
 você pode iniciar blockquotes com um >.
