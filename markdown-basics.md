@@ -1,19 +1,19 @@
-BASICS MARKDOWN
+##BASICS MARKDOWN##
 
-MARKDOWN  permite um facil modo de escrever formatos de texto simples, que se converte entao em  html valida para visualizaçao no github.
+**MARKDOWN**  permite um facil modo de escrever formatos de texto simples, que se converte entao em  html valida para visualizaçao no github.
  escrita basica 
  paragrafo
  em markdown sao apenas uma ou mais linhas de texto consecutivos seguido por uma ou mais linhas em branco.
  em 2 de julho, uma nave-mae alienigena entrou entrou em órbita da terra e implantado várias dezenas em forma de pires nave espacial "destruidora" a cada 15 milhas de largura.
  em 3 de julho, os cavaleiros negros, um esquadrâo de marine corps f/a-18 hormets, participou de um assalto em um destroyer perto da cidade de los angeles.
  
- os titulos 
+ **1.os titulos**
  você pode criar um titulo adicionando um ou mais # simbolos antes do seu titulo de texto. O número de #você usa íra determinar o tamanho do cabeçalho.
- # O maior titulo (uma tag <h1>)
- ## A segunda maior rubrica (um <H2>)
- ##### A maior rubrica (um <H6>)
+  O maior titulo (uma tag <h1>)
+  A segunda maior rubrica (um <H2>)
+  A maior rubrica (um <H6>)
 
-blockquotes 
+**2.blockquotes**
 você pode iniciar blockquotes com um >.
 nos palavras de Abraham lincoln:
 > pardon my french
@@ -23,7 +23,7 @@ TEXTO STYLING
  ** este texto será negrito **
  Ambos negrito e itálico pode usar um * ou um _ em torno do texto para o estilo. Isso permite que você combine os dois em negrito eitálico, se necessário.
  ** todos_devem_participar da reunião ás 5 horas de hoje **
- lista
+ **1.lista**
  você pode fazer uma lista desordenada precedendo da lista ou com um * ou um _ .
  * Item
  * Item
@@ -32,13 +32,13 @@ TEXTO STYLING
 - Artigo
 - Artigo
 
-listas ordenadas 
+*listas ordenadas*
 
 você pode fazer uma lista ordenada precedendo itens da lista com um número.
 1. Item 1
 2. O Artigo 2
 3. O Artigo 3
-listas aninhadas 
+##*listas aninhadas*##
 você pode criar listas aninhadas  pelo recuo itens da lista por dois espaços 
 1. Item 1
   1.  um salario que nao precisa ser solicitado.
@@ -48,7 +48,7 @@ você pode criar listas aninhadas  pelo recuo itens da lista por dois espaços
   *voc~e pode querer considerar fazer uma nova lista.
 3. o artigo 3
 
-a formataçao do codigo 
+#**a formataçao do codigo**#
 
 use backticks simples ' para formatar o texto em um formato especial monospace. tudo dentro dos acentos graves aparecem  como está, sem nenhuma outra formatação especial.
 aqui está uma idéia: por que não vamos tomar 'projeto superior' e transformá-lo em '** ** project' razoavel .
@@ -62,7 +62,7 @@ x = 2 + 2
 o que é x
 '''
 
-links 
+#*links*#
 
 você pode criar uma ligação em linha por envolvimento do link texto entre colchetes([]),e, em seguida, envolva a ligação entre parenteses(()).
 por exemplo, para  criar um hiprlink para www.github.com, com um texto de linl que diz , visita github!você  escreveria isso em markdown:[visite github!] (www.github.com)
