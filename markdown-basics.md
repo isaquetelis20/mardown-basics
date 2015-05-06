@@ -3,7 +3,7 @@
 **MARKDOWN** permite um facil modo de escrever formatos de texto simples, que se converte entao em  **html**
 valida para visualizaçao no **github**.
  
- #**escrita basica**# 
+#**escrita basica** 
  
  
  *paragrafo*
